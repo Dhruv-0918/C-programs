@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// sum of 1 to 5 using recursion
-
 int palindrome(int arr[],int start,int end  ){
     if(start>=end){
         return 1;
